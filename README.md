@@ -15,7 +15,7 @@ For example To Remove Microsoft3DViewer, you can use the following command.
 
 `Get-AppxPackage Microsoft.Microsoft3DViewer | Remove-AppxPackage`
 
-You can see the short codes of all (Microsoft apps here)[https://www.finallaptop.com/how-to-debload-windows]. 
+You can see the short codes of all Microsoft apps here [to debload them manually](https://www.finallaptop.com/how-to-debload-windows). 
 
 
 ## List of Github Repositories to debloat windows 10.
